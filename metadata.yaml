@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37619'
     url: http://www.gutenberg.org/2009/agents/37619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44409#A-Thousand-Years-of-Jewish-HistoryFrom-the-days-of-Alexander-the-Great-to-the-Moslem-Conquest_
 gutenberg_issued: '2013-12-11'
 gutenberg_type: Text
 identifiers:
